@@ -5,5 +5,9 @@ public class Democlass1 {
 	{
 		System.out.print("sush");
 	}
+	public void delete()
+	{
+		System.out.println("sushe");
+	}
 
 }
